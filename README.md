@@ -1,2 +1,2 @@
 # House-Prices-in-Istanbul-A-Multiple-Regression-Model
-Estimating the House Prices in Istanbul
+Estimating the Houses which are on sale in Emlakjet, prices by using machine learning
